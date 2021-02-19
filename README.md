@@ -24,6 +24,10 @@ docker-compose run app ruby lockdown_party.rb
 ---
 However, if you don't have docker, you can just run the following below.
 
+###### Requirement
+
+Please ensure you have ruby 3 isntalled.
+
 To run the application and generate an `output.txt`, you can run the following.
 ```bash
 ruby entrypoint.rb
