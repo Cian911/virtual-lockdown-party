@@ -26,7 +26,12 @@ However, if you don't have docker, you can just run the following below.
 
 ###### Requirement
 
-Please ensure you have ruby 3 isntalled.
+Please ensure you have ruby 3 installed.
+
+Run the following:
+```bash
+bundle install
+```
 
 To run the application and generate an `output.txt`, you can run the following.
 ```bash
